@@ -1,7 +1,11 @@
-mattkhau
+matkhau
 ======
 
 `matkhau` is a node command line application that generates a strong password right in your terminal.
+
+**About the name.**
+
+`matkhau` is combined from 2 Vietnamese words `mat khau` that means `password`.
 
 <!-- toc -->
 * [Install](#install)
