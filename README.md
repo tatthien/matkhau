@@ -1,4 +1,4 @@
-matkhau
+matkhau-cli
 ======
 
 `matkhau` is a node command line application that generates a strong password right in your terminal.
@@ -17,9 +17,9 @@ matkhau
 ## Install
 
 ```bash
-npm install -g matkhau
+npm install -g matkhau-cli
 # OR
-yarn global add matkhau
+yarn global add matkhau-cli
 ```
 
 ## Usage
