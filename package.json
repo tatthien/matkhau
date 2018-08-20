@@ -5,7 +5,7 @@
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
-    "matkhau": "./bin/cli"
+    "matkhau": "./bin/cli.js"
   },
   "scripts": {},
   "repository": {
