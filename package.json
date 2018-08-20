@@ -1,0 +1,34 @@
+{
+  "name": "matkhau",
+  "version": "0.0.1",
+  "description": "A node command line application that generates a strong password right in your terminal.",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "matkhau": "./bin/cli"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatthien/matkhau.git"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "node",
+    "javascript",
+    "password",
+    "cli"
+  ],
+  "author": "Thien Nguyen <tatthien.contact@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tatthien/matkhau/issues"
+  },
+  "homepage": "https://github.com/tatthien/matkhau/issues#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "inquirer": "^6.1.0"
+  }
+}
