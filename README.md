@@ -30,9 +30,18 @@ yarn global add matkhau-cli
 matkhau create
 ```
 
+![Create](https://i.imgur.com/FBf8WDz.gif)
+
+Create a password with custom length.
+
+![Create custom](https://i.imgur.com/HGPJun5.gif)
+
 2 Quickly create a password without any options.
 
 `--quick` flag allows the command to create a password automatically with 32 characters long including the special chars.
+
+![Create quickly](https://i.imgur.com/uL0PIKJ.gif)
+
 
 ```bash
 matkhau create --quick
