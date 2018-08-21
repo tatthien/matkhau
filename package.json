@@ -1,5 +1,5 @@
 {
-  "name": "matkhau",
+  "name": "matkhau-cli",
   "version": "0.0.1",
   "description": "A node command line application that generates a strong password right in your terminal.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tatthien/matkhau.git"
+    "url": "git+https://github.com/tatthien/matkhau-cli.git"
   },
   "keywords": [
     "npm",
