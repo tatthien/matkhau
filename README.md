@@ -36,6 +36,8 @@ matkhau create
 
 ```bash
 matkhau create --quick
+# OR
+matkhau c -q
 ```
 
 ## Contribute
