@@ -3,6 +3,8 @@ const inquirer = require('inquirer');
 const chalk = require('chalk');
 const questions = require('./questions');
 
+const cliVersion = '0.0.3';
+
 /**
  * Get random integer between two numbers.
  * @param {number} min
@@ -46,7 +48,7 @@ const renderColorPassword = function (password) {
 
 // Define the command line.
 program
-  .version('0.0.1');
+  .version(cliVersion);
 
 program
   .command('create')
